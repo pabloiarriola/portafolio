@@ -1,0 +1,19 @@
+{
+  "name": "portafolio",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://34.210.35.174/131115/portafolio",
+  "dependencies": {
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "react-icons": "^2.2.7",
+    "react-id-swiper": "^1.5.5",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  } 
+}
