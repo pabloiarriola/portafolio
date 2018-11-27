@@ -4,8 +4,8 @@ export default class Fin extends Component{
 	render(){
 		return(
 			<div className='ending'>
+				<h1> Web 2018</h1>
 				<h1> Pablo Arriola</h1>
-				<h1> 131115 </h1>
 
 
 			</div>
